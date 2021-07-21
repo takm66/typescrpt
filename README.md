@@ -1,1 +1,6 @@
 # typescrpt
+
+TypeScrtptのサンプル
+
+- hello
+- sample
